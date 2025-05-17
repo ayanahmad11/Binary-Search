@@ -1,0 +1,1 @@
+{"name":"Local: 01_Lower_bound","url":"/Users/ayanahmed/Desktop/binary Search/01_Lower_bound.cpp","tests":[{"id":1747037735396,"input":"8 \n1 2 3 3 3 4 4 6\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ayanahmed/Desktop/binary Search/01_Lower_bound.cpp","group":"local","local":true}
